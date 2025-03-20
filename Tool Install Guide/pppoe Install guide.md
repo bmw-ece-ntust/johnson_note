@@ -4,26 +4,6 @@ title: pppoe Install guide
 ---
 
 [TOC]
-## Status
-
-
-
-| Item                                             | Status             |
-|:------------------------------------------------ |:------------------ |
-| PPPOE Send PADI                                  | :heavy_check_mark: |
-| PPPOE receives PADO                              |                    |
-| PPPOE sends PADR                                 |                    |
-| PPPOE receives PADS                              |                    |
-| PPPOE sends authenticated user name and password |                    |
-| PPPOE account and password authentication passed |                    |
-| PPPOE obtained IP successfully                   |                    |
-
-
-
-
-
-
-
 
 
 ## Example topology
